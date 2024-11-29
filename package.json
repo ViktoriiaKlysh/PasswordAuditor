@@ -9,7 +9,7 @@
   "author": "Viktoriia Klysh",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.3.7",
+    "chai": "^4.3.10",
     "mocha": "^10.2.0"
   }
 }
